@@ -1,0 +1,19 @@
+/* Add Custom Styles here */
+.upaf-preferences-container{
+    margin: 20px 0;
+}
+.upaf-preferences-container form{
+    margin-top: 10px;
+}
+.upaf-preferences-container label{
+    display: block;
+    margin-bottom: 5px;
+}
+.upaf-preferences-container input[type="text"]{
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+.upaf-preferences-container input[type="submit"]{
+    padding: 5px 10px;
+}
